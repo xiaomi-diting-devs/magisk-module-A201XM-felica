@@ -9,3 +9,8 @@
 
 ### v4 - 2024/01/20
 * Rollback SIM2 slot support
+
+### v5 - 2024/08/18
+* Update app versions
+* Update felica configs
+* change app locations
