@@ -1,10 +1,4 @@
-ro.product.model=22081212R
-ro.product.cert=22081212R
-ro.product.system.model=22081212R
-ro.product.vendor.model=22081212R
-ro.product.product.model=22081212R
-ro.product.product.model=22081212R
-ro.product.odm.model=22081212R
-ro.product.system_ext.model=22081212R
+ro.product.model=A201XM
+ro.product.cert=A201XM
 ro.miui.build.region=jp
 ro.vendor.se.type=eSE,HCE,UICC

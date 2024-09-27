@@ -14,3 +14,8 @@
 * Update app versions
 * Update felica configs
 * change app locations
+
+### v6 - 2024/09/27
+* use correct felica configs from 1.0,5.0.ULFJPSB
+* split 22081212R's module
+* change app locations
