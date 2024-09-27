@@ -1,7 +1,7 @@
 REPLACE="
-/system/app/MobileFeliCaClient
-/system/app/MobileFeliCaMenuMainApp
-/system/app/MobileFeliCaSettingApp
-/system/app/MobileFeliCaWebPluginBoot
-/system/etc/felica
+/system/product/app/MobileFeliCaClient
+/system/product/app/MobileFeliCaMenuMainApp
+/system/product/app/MobileFeliCaSettingApp
+/system/product/app/MobileFeliCaWebPluginBoot
+/system/vendor/etc/felica
 "
