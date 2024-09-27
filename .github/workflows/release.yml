@@ -1,3 +1,4 @@
+name: Build release
 on:
   workflow_dispatch:
     branches-ignore:
@@ -18,11 +19,11 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
         type: 'zip'
-        filename: 'magisk-module-A201XM-jp-felica.zip'
+        filename: 'magisk-module-A201XM-felica.zip'
         exclusions: '*.git*'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
         allowUpdates: true
-        artifacts: "magisk-module-A201XM-jp-felica.zip"
+        artifacts: "magisk-module-A201XM-felica.zip"
         token: ${{ secrets.GITHUB_TOKEN }}
