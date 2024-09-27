@@ -18,11 +18,11 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
         type: 'zip'
-        filename: 'magisk-module-diting-jp-felica.zip'
+        filename: 'magisk-module-A201XM-jp-felica.zip'
         exclusions: '*.git*'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
         allowUpdates: true
-        artifacts: "magisk-module-diting-jp-felica.zip"
+        artifacts: "magisk-module-A201XM-jp-felica.zip"
         token: ${{ secrets.GITHUB_TOKEN }}

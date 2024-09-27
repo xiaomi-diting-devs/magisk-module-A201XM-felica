@@ -1,5 +1,5 @@
 #### Felica Enabler for diting
-Felica enable patch for 22081212R users.
+Felica enable patch for A201XM users.
 
 #### NOTICE
 
