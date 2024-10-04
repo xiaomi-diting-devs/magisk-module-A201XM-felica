@@ -1,7 +1,7 @@
 id=A201XM-felica
 name=FeliCa Patch for A201XM(Xiaomi 12T Pro, SoftBank)
-version=v05
-versionCode=05
+version=v06
+versionCode=06
 author=soralis0912,cynagenautes
 description=A201XM(Xiaomi 12T Pro, SoftBank) FeliCaパッチ
 updateJson=https://raw.githubusercontent.com/xiaomi-diting-devs/magisk-module-A201XM-felica/master/update.json
